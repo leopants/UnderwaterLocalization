@@ -1,5 +1,4 @@
 import pandas as pd
-import json
 
 data = pd.read_csv("june11_10_30.log", ';')
 
